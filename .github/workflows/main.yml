@@ -1,4 +1,4 @@
-name: ci
+name: ci edu
 
 on:
   push:
